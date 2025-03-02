@@ -1,2 +1,2 @@
-# Data-Science-Projects
-This repository showcases my data science projects and coursework.
+Projects
+This repository showcases random projects and coursework.
